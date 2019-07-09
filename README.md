@@ -17,7 +17,7 @@ This is an angular app for creating,adding quotes voting and deleting them.
 1Angular and node installation
 2 This app creates a new quote.
 3It allows a user to add quote
-4You can vote as well as see when the quote was published.
+4Allows user to vote and see completion date
 5It allows the user to delete a quote.
 6Internet connection
 

@@ -27,7 +27,7 @@ This is an angular app for creating,adding quotes voting and deleting them.
 3 CSS<br>
 4 Bootstrap.
 
-License and terms of use
+## License 
 MIT License this application's source code is free for any open source projects
 
 ©Sylviah Rutto 2019| Moringa School

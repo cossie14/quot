@@ -1,5 +1,5 @@
 
-## An Angular App that allows users to create and delete quotes. It also allows users to vote on created quotes, and see the number of votes those quotes have.
+## An Angular App that allows users to create,add,vote and  delete quote.
 
 ## Project Name
 Quotes

@@ -1,5 +1,5 @@
 
-## An Angular App that allows users to create,add,vote and  delete quote.
+## An Angular App that allows users to create,add,vote and  delete quotes.
 
 ## Project Name
 Quotes
@@ -14,11 +14,11 @@ This is an angular app for creating,adding quotes voting and deleting them.
 
 
 ## BDD
-1Angular and node installation
-2 This app creates a new quote.
-3It allows a user to add quote
-4Allows user to vote and see completion date
-5It allows the user to delete a quote.
+1Angular and node installation<br>
+2 This app creates a new quote.<br>
+3It allows a user to add quote<br>
+4Allows user to vote and see completion date<br>
+5It allows the user to delete a quote.<br>
 6Internet connection
 
 ## bTechnologies used

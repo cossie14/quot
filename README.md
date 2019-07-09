@@ -14,17 +14,18 @@ This is an angular app for creating,adding quotes voting and deleting them.
 
 
 ## BDD
-1Angular and node installation<br>
+1 Angular and node installation<br>
 2 This app creates a new quote.<br>
-3It allows a user to add quote<br>
-4Allows user to vote and see completion date<br>
-5It allows the user to delete a quote.<br>
-6Internet connection
+3 It allows a user to add quote<br>
+4 Allows user to vote and see completion date<br>
+5 It allows the user to delete a quote.<br>
+6 Internet connection
 
-## bTechnologies used
-Angular<br> HTML<br>
-CSS<br>
-Bootstrap.
+## Technologies used
+1 Angular<br>
+2 HTML<br>
+3 CSS<br>
+4 Bootstrap.
 
 License and terms of use
 MIT License this application's source code is free for any open source projects
